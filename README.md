@@ -1,4 +1,4 @@
-# SQLalchemy - Challenge
+# SQL - Challenge
 # Data Engineering Project at Pewlett Hackard
 
 ## Background
