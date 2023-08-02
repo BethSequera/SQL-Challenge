@@ -1,5 +1,5 @@
 # SQL - Challenge
-## Data Analyst Project - Pewlett Hackard**
+## Data Analyst Project - Pewlett Hackard
 
 **Description**
 
